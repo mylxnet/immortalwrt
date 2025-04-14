@@ -12,6 +12,8 @@ Built firmware images are available for many architectures and come with a packa
 
 - [ImmortalWrt Firmware Selector](https://firmware-selector.immortalwrt.org/)
 
+- [ImmortalWrt Firmware images](https://mirrors.pku.edu.cn/immortalwrt/releases/)
+
 If your device is supported, please follow the **Info** link to see install instructions or consult the support resources listed below.
 
 ## Development
